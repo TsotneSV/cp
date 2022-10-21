@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-#define int long long
+#define ll long long
 #define f first
 #define s second
 #define mp make_pair
