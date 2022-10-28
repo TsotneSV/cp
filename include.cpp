@@ -2,6 +2,7 @@
 using namespace std;
  
 #define ll long long
+#define ld long double
 #define f first
 #define s second
 #define mp make_pair
