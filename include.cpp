@@ -18,7 +18,7 @@ void solve(){
     
 }
  
-signed main(){
+main(){
     fast_cin();
     //cin>>tt;
     while(tt--){
