@@ -3,6 +3,9 @@ using namespace std;
 
 #define ll long long
 #define pb push_back
+#define ins insert
+#define ff first
+#define ss second
 #define all(x) (x).begin(),(x).end()
 #define deb(x) cout<<(x)<<"\n"
 const int INF=1e9,MOD=1e9+7;
